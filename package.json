@@ -1,0 +1,29 @@
+{
+  "name": "quicksilver",
+  "version": "1.0.0",
+  "description": "Realtime server using Lightstreamer https://lightstreamer.com",
+  "main": "index.js",
+  "dependencies": {
+    "lightstreamer-adapter": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamMr/quicksilver.git"
+  },
+  "keywords": [
+    "Lightstreamer",
+    "real-time",
+    "socket",
+    "low-latency"
+  ],
+  "author": "NamMr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NamMr/quicksilver/issues"
+  },
+  "homepage": "https://github.com/NamMr/quicksilver#readme"
+}
